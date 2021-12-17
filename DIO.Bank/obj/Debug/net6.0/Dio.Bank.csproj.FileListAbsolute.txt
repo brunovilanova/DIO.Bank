@@ -1,0 +1,15 @@
+/Users/Bruno/Documents/DIO/Workspace/DIO.Bank/bin/Debug/net6.0/Dio.Bank
+/Users/Bruno/Documents/DIO/Workspace/DIO.Bank/bin/Debug/net6.0/Dio.Bank.deps.json
+/Users/Bruno/Documents/DIO/Workspace/DIO.Bank/bin/Debug/net6.0/Dio.Bank.runtimeconfig.json
+/Users/Bruno/Documents/DIO/Workspace/DIO.Bank/bin/Debug/net6.0/Dio.Bank.dll
+/Users/Bruno/Documents/DIO/Workspace/DIO.Bank/bin/Debug/net6.0/ref/Dio.Bank.dll
+/Users/Bruno/Documents/DIO/Workspace/DIO.Bank/bin/Debug/net6.0/Dio.Bank.pdb
+/Users/Bruno/Documents/DIO/Workspace/DIO.Bank/obj/Debug/net6.0/Dio.Bank.csproj.AssemblyReference.cache
+/Users/Bruno/Documents/DIO/Workspace/DIO.Bank/obj/Debug/net6.0/Dio.Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Bruno/Documents/DIO/Workspace/DIO.Bank/obj/Debug/net6.0/Dio.Bank.AssemblyInfoInputs.cache
+/Users/Bruno/Documents/DIO/Workspace/DIO.Bank/obj/Debug/net6.0/Dio.Bank.AssemblyInfo.cs
+/Users/Bruno/Documents/DIO/Workspace/DIO.Bank/obj/Debug/net6.0/Dio.Bank.csproj.CoreCompileInputs.cache
+/Users/Bruno/Documents/DIO/Workspace/DIO.Bank/obj/Debug/net6.0/Dio.Bank.dll
+/Users/Bruno/Documents/DIO/Workspace/DIO.Bank/obj/Debug/net6.0/ref/Dio.Bank.dll
+/Users/Bruno/Documents/DIO/Workspace/DIO.Bank/obj/Debug/net6.0/Dio.Bank.pdb
+/Users/Bruno/Documents/DIO/Workspace/DIO.Bank/obj/Debug/net6.0/Dio.Bank.genruntimeconfig.cache
